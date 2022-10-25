@@ -254,7 +254,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@color/black"
-            android:text="Penang Assam Laksa"
+            android:text=" Tom Yum Goong "
             android:textColor="@color/white"
             android:textSize="19sp"
             android:textStyle="bold"
